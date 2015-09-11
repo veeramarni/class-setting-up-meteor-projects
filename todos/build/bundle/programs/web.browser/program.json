@@ -1,0 +1,32 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "5e59566e62061d01a40f5bb7058e45b9297b3dfd.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/5e59566e62061d01a40f5bb7058e45b9297b3dfd.js",
+      "size": 400928,
+      "hash": "5e59566e62061d01a40f5bb7058e45b9297b3dfd"
+    },
+    {
+      "path": "488bbc0bccee506e4854da2dedee7159dd106910.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/488bbc0bccee506e4854da2dedee7159dd106910.css?meteor_css_resource=true",
+      "size": 7107,
+      "hash": "488bbc0bccee506e4854da2dedee7159dd106910"
+    },
+    {
+      "path": "app/images/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/favicon.ico",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
+  ]
+}
