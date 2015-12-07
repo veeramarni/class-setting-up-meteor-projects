@@ -2,7 +2,7 @@
 ## <a href="https://www.eventedmind.com/classes/setting-up-meteor-projects" target="_blank">Class: Setting Up Meteor Projects</a>
 
 **Meteor**<br>
-**Build**
+****
 
 This class will explore tips and tricks for setting up a more advanced project structure. You'll learn about configuration settings, installing multiple versions of NodeJS, the Meteor build system, the new Meteor packaging system, working with different Meteor versions and a more sophisticated application structure.
 
