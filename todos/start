@@ -52,7 +52,7 @@ start() {
     export METEOR_SETTINGS="$(cat $settings_file)"
   fi
 
-  if [ "$CHECKOUT" ]; then
+   if [ "$CHECKOUT" = true ]; then
 
     if [ ! -d "$METEOR_SRC" ]; then
       echo "Error: To run from a git checkout of meteor, please set the METEOR_SRC env variable to a valid meteor source folder."
